@@ -1,3 +1,5 @@
+Note: Edited autoload/rails.vim to remove rails.vim tab indentation preferences.
+
 rails.vim
 
 To install, simply copy autoload/rails.vim, plugin/rails.vim, and
